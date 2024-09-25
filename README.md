@@ -1,4 +1,4 @@
-# Fluxo de Estudo para um Senior Developer
+# Fluxo de Estudo para um Desenvolvedor Sênior
 
 1. **Fundamentos da Arquitetura de Software**
    - **Estudo Inicial**: Compreender os princípios básicos da arquitetura de software.
