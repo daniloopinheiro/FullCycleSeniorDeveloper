@@ -1,7 +1,3 @@
-Aqui está uma proposta aprimorada do seu README em Markdown, com seções organizadas, gráficos representados como blocos `mermaid` (para visualização em plataformas que suportam), e sugestões visuais de fluxo para melhor visibilidade.
-
----
-
 # 🚀 Fluxo de Estudo para um Desenvolvedor Sênior
 
 > Um guia prático para se tornar um arquiteto de software completo, com foco em fundamentos, práticas modernas e projetos reais.
