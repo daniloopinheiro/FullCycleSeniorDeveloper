@@ -1,5 +1,7 @@
 # 🚀 Fluxo de Estudo para um Desenvolvedor Sênior
 
+[![Check Markdown Links](https://github.com/daniloopinheiro/FullCycleSeniorDeveloper/actions/workflows/check-links.yml/badge.svg)](https://github.com/daniloopinheiro/FullCycleSeniorDeveloper/actions/workflows/check-links.yml)
+
 > Um guia prático para se tornar um arquiteto de software completo, com foco em fundamentos, práticas modernas e projetos reais.
 
 ---
