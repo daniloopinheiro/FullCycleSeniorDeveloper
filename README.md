@@ -201,3 +201,7 @@ Entre em contato para **colaborações, dúvidas ou consultorias**:
 - 🏢 **Email Empresarial (DevsFree)**: [devsfree@devsfree.com.br](mailto:devsfree@devsfree.com.br)  
 - 📊 **Consultoria (dopme.io)**: [contato@dopme.io](mailto:contato@dopme.io)  
 - 💼 **LinkedIn**: [Danilo O. Pinheiro](https://www.linkedin.com/in/daniloopinheiro)
+
+---
+
+<p align="center"> Feito com ❤️ por <strong>Danilo O. Pinheiro</strong><br/> <a href="https://devsfree.com.br" target="_blank">DevsFree</a> • <a href="https://dopme.io" target="_blank">dopme.io</a> </p>
